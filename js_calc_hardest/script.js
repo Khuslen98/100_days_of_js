@@ -1,0 +1,9 @@
+class Calculator {
+    constructor() {
+
+    }
+
+    clearAllHistory() {}
+
+    
+}
